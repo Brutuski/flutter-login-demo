@@ -32,7 +32,7 @@ The 'Sign In' button and the 'Google' and 'Apple' account login buttons also use
 
 ### Credit
 Design by [Vasundhara Sharma](https://github.com/vasundhasauras)  
-Implement in flutter by [Adi Sirohi](https://github.com/Brutuski) 
+Implement in flutter by [Adi Sirohi](https://github.com/Brutuski)  
 Device Mockup created using [this](https://www.ls.graphics/free/free-iphone-xs-iphone-xs-max-mockups) open source mock up file.
 
 ### License
